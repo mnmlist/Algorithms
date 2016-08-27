@@ -22,6 +22,8 @@ package com.github.pedrovgs.pair;
  */
 public class Pair<A, B> {
 
+  //add test just for test
+
   private final A a;
   private final B b;
 
