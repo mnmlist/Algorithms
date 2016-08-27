@@ -24,6 +24,8 @@ public class Pair<A, B> {
 
   //add test just for test
 
+  //add another test
+
   private final A a;
   private final B b;
 
