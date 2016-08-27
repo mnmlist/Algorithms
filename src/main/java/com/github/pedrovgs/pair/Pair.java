@@ -26,6 +26,8 @@ public class Pair<A, B> {
 
   //add another test
 
+  //add test in master
+
   private final A a;
   private final B b;
 
